@@ -3,6 +3,11 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Netflex-March-2025/",
+  base: "/NetflixCloneG4/",
   plugins: [react()],
 });
+// export default defineConfig({
+//   base: "/NetflixCloneG4/",
+//   plugins: [react()],
+// });
+
